@@ -1,0 +1,11 @@
+{
+    "name" : "Chapter 1 (MV3)",
+    "version" : "1.0",
+    "manifest_version" : 3,
+    "description" : "This is chapter 1",
+    "action" : {
+        "default_icon" : "Chapter_1.png",
+        "default_title" : "I am Chapter 1",
+        "default_popup" : "popup.html"
+    }
+}
